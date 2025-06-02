@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-summarizer",
+  "version": "1.0.0",
+  "description": "ChatGPT를 사용하여 노트를 요약하는 프로그램",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.3"
+  }
+} 
